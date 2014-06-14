@@ -1,0 +1,8 @@
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdaterManual\MediaUpdaterManual\obj\Debug\MediaUpdaterManual.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdaterManual\MediaUpdaterManual\obj\Debug\MediaUpdaterManual.Form1.resources
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdaterManual\MediaUpdaterManual\obj\Debug\MediaUpdaterManual.Properties.Resources.resources
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdaterManual\MediaUpdaterManual\obj\Debug\MediaUpdaterManual.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdaterManual\MediaUpdaterManual\bin\Debug\MediaUpdaterManual.exe
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdaterManual\MediaUpdaterManual\bin\Debug\MediaUpdaterManual.pdb
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdaterManual\MediaUpdaterManual\obj\Debug\MediaUpdaterManual.exe
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdaterManual\MediaUpdaterManual\obj\Debug\MediaUpdaterManual.pdb
